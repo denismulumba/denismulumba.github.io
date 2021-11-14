@@ -8,6 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage
+Brief Information
 ======
 Content Coming soon ;)
+
+Recent News
+======
+jfsdkjfdksa
+
+Fun facts
+======
+ksjfdalfds
