@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in Education Physics Mathematics, Makerere University, 2018
+* B.S. in Education Physics & Mathematics, Makerere University, Jan 2018
 * M.S. in Mathematical Sciences, African Institute of Mathematical Sciences (AIMS) Rwanda, 2021
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Computing Ph.D with emphasis in Computational Mathematics Science and Engineering, Boise State University, 2022 (to date)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Summer 2017: Physics Mathematics teacher
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
