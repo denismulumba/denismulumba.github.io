@@ -1,59 +1,34 @@
 ---
-layout: archive
-title: "CV"
+layout: single
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+## Education
 
-Education
-======
-* B.S. in Education Physics Mathematics, Makerere University, 2018
-* M.S. in Mathematical Sciences, African Institute of Mathematical Sciences (AIMS) Rwanda, 2021
-* Computing PhD, with an emphasis in Computational Mathematics Science and Engineering, Boise State University, 2022 To Date
+- **B.S. in Education Physics Mathematics**, Makerere University, 2018  
+- **M.S. in Mathematical Sciences**, AIMS Rwanda, 2021  
+- **Ph.D. in Computing (Computational Mathematics)**, Boise State University, 2022–Present
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Work Experience
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **Summer 2015**: Research Assistant, GitHub University  
+  _Duties included_: Tagging issues  
+  _Supervisor_: Professor Git
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Fall 2015**: Research Assistant, GitHub University  
+  _Duties included_: Merging pull requests  
+  _Supervisor_: Professor Hub
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+## Skills
 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+- Scientific computing
+  - Python (NumPy, SciPy, ASE)
+  - Quantum ESPRESSO, Phonopy
+- Version control: Git, GitHub
+- LaTeX, Markdown
 
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+## Publications
 
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+See [Publications]({{ '/publications/' | relative_url }}) for a full list.
