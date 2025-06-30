@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Education Physics Mathematics, Makerere University, 2018
 * M.S. in Mathematical Sciences, African Institute of Mathematical Sciences (AIMS) Rwanda, 2021
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Computing PhD, with an emphasis in Computational Mathematics Science and Engineering, Boise State University, 2022 To Date
 
 Work experience
 ======
