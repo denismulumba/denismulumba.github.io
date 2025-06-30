@@ -18,16 +18,16 @@ author_profile: true
   _Supervisor_: Professor Oliviero Andreussi 
 
 - **October 2021 -  Jan 2022**: Data analysist and quality assurer, Voxcroft Analytics  
-  _Duties included_: Merging pull requests  
-  _Supervisor_: Professor Hub
+  _Duties included_: Data collection, quality assurance 
+  _Supervisor_: Sarah-Leah Pimentel
 
 ## Skills
 
 - Scientific computing
-  - Python (NumPy, SciPy, ASE)
+  - Python (NumPy, SciPy, ASE), MatLab
   - Quantum ESPRESSO, Phonopy
-- Version control: Git, GitHub
-- LaTeX, Markdown
+- Version control: Git, GitHub 
+- LaTeX, Markdown 
 
 ## Publications
 
