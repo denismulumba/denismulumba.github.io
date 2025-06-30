@@ -9,7 +9,7 @@ author_profile: true
 
 - **B.S. in Education Physics Mathematics**, Makerere University, 2018  
 - **M.S. in Mathematical Sciences**, AIMS Rwanda, 2021  
-- **Ph.D. in Computing (Computational Mathematics)**, Boise State University, 2022–Present
+- **Ph.D. in Computing (Computational Mathematics Science and Engineering)**, Boise State University, 2022–Present
 
 ## Work Experience
 
@@ -26,6 +26,7 @@ author_profile: true
 - Scientific computing
   - Python (NumPy, SciPy, ASE)
   - MatLab
+  - High Perfomance Computing
   - Quantum ESPRESSO, Phonopy
 - Version control: Git, GitHub 
 - LaTeX, Markdown 
