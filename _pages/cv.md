@@ -13,11 +13,11 @@ author_profile: true
 
 ## Work Experience
 
-- **Summer 2015**: Research Assistant, GitHub University  
-  _Duties included_: Tagging issues  
-  _Supervisor_: Professor Git
+- **Summer 2022 -Date**: Research Assistant, Boise State University 
+  _Duties included_: Conducting research  
+  _Supervisor_: Professor Oliviero Andreussi 
 
-- **Fall 2015**: Research Assistant, GitHub University  
+- **October 2021 -  Jan 2022**: Data analysist and quality assurer, Voxcroft Analytics  
   _Duties included_: Merging pull requests  
   _Supervisor_: Professor Hub
 
