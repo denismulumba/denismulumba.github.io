@@ -76,35 +76,21 @@ Recent Updates
   Awarded the **[ CASCADE RAIN 2025 travel award ](https://sites.google.com/oregonstate.edu/rain2025/travel-support)** Awarded the Cascade RAIN 2025 Travel Award in recognition of graduate research contributions in applied mathematics. The award supports conference travel and highlights emerging researcgh in the field.
 
 - **September 2024**  
-  Received a **Travel Award** to attend the **[NCAR CESM Tutorial](https://www.cesm.ucar.edu/events/tutorials)** in Boulder, CO, for advanced training in Earth system modeling and simulation.
-
-- **September 2024**  
-  Selected as a **[William Averette Anderson Fund Fellow](https://billandersonfund.org/)**, with a focus on hazard mitigation and disaster resilience. Participated in national workshops on community-engaged research.
+  Received a **ACSFALL2024 best oral presentation Award** **[ACSFALL2024](https://acs.digitellinc.com/p/s/accelerating-catalytic-advancements-through-the-precision-of-high-throughput-experiments-and-calculations-609622)** at the “Accelerating Catalytic Advancements Through the Precision of High-Throughput Experiments & Calculations” symposium during the ACS Fall 2024 Conference in Denver, CO. The award recognized excellence in presenting cutting-edge research in computational catalysis.
 
 - **July 2024**  
-  Presented machine learning research on climate pattern analysis at the **SIAM Annual Meeting** and **[SIAM Mathematics of Data Science (MDS)](https://www.siam.org/conferences-events/past-event-archive/mds24/)** conference, supported by [SIAM Travel Awards](https://www.siam.org/conferences-events/conference-support/travel-and-registration-support/).
+  Attended a workshop on Quantum multiscale modeling at BSU organized by Dr. Oliviero Andreussi as his collaborators  **[Quantum multiscale modeling](http://www.quantum-multiscale.org/)** 
 
-- **June 2024**  
-  Completed a **Graduate Research Fellowship** at **[NCAR Advanced Study Program](https://edec.ucar.edu/advanced-study-program)**, developing adaptive learning techniques for climate model calibration and evaluation.
-
-
-Awards & Fellowships
+Awards
 ======
 
-- **2025**  
-  - AWWA Pacific Northwest Scholarship Recipient   
-  - [NCAR CESM Tutorial](https://www.cesm.ucar.edu/events/tutorials/cesm) Travel Award – Funding for advanced CESM model training
-
 - **2024**  
-  - William Averette Anderson Fund Fellow – National fellowship in hazard & disaster mitigation  
-  - NCAR ASP Graduate Research Fellow – NSF-supported climate research residency  
-  - SIAM Travel Awards (AN24, MDS24) – For presentations at major applied mathematics/data science conferences
-
+  - ACSFALL2024 best oral presentation   
+  - CASCADE RAIN Travel Awards  – For presentations at major applied mathematics and Numerical methods
 - **2021**  
   - [Boise State GEM Scholarship](https://www.boisestate.edu/graduatecollege/funding/merit-based-gem-scholarship/) – Merit-based graduate award  
   - Graduate Assistantship – Research funding from Boise State University  
   - AIMS Master's Scholarship (Mastercard Foundation) – Full scholarship for climate-focused graduate studies
 
 - **2015**  
-  - Zambia National Merit Scholarship – Full undergraduate scholarship based on academic excellence at Copperbelt University
-
+  - The Uganda Government National Merit Scholarship – Full undergraduate scholarship based on academic excellence at Makerere University
