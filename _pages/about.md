@@ -14,7 +14,7 @@ I am a Computational Scientist and Ph.D. Candidate in Computing (CMSE) at [Boise
 
 My research centers on developing high-accuracy numerical solvers for partial differential equations (PDEs) with **interface discontinuities** and complex geometries, particularly in **electrostatics**, **materials modeling**, and **multi-domain physics**. I work extensively with **immersed interface methods (IIM)** and **embedded boundary techniques**, crafting robust algorithms that preserve sharp jump conditions across irregular domains in both 2D and 3D.
 
-At the core of my work is the integration of **spectral solvers** (e.g., discrete sine transforms) with **iterative Krylov methods** like GMRES to efficiently solve large-scale elliptic systems. I implement these solvers in hybrid **Python–Fortran** codebases optimized for **high-performance computing (HPC)** clusters. My goal is to create scalable, accurate numerical frameworks that bridge mathematical rigor with real-world applications in electrostatics, fluid interfaces, and materials science.
+At the core of my work is the integration of **spectral solvers** (e.g., discrete sine transforms) with **iterative Krylov methods** like GMRES to efficiently solve large-scale elliptic systems. I implement these solvers in hybrid **Python** codebases optimized for **high-performance computing (HPC)** clusters. My goal is to create scalable, accurate numerical frameworks that bridge mathematical rigor with real-world applications in electrostatics, fluid interfaces, and materials science.
 
 I also explore **data-driven acceleration** techniques—such as reduced models and RBF interpolation—to enable faster simulations without sacrificing physical accuracy. My work emphasizes **modularity**, **reproducibility**, and **performance portability**, ensuring that scientific computing pipelines remain adaptable across domains.
 
@@ -75,7 +75,7 @@ Recent Updates
   Awarded the **[ CASCADE RAIN 2025 travel award ](https://sites.google.com/oregonstate.edu/rain2025/travel-support)** Awarded the Cascade RAIN 2025 Travel Award in recognition of graduate research contributions in applied mathematics. The award supports conference travel and highlights emerging researcgh in the field.
 
 - **September 2024**  
-  Received a **ACSFALL2024 best oral presentation Award** **[ACSFALL2024](https://acs.digitellinc.com/p/s/accelerating-catalytic-advancements-through-the-precision-of-high-throughput-experiments-and-calculations-609622)** at the “Accelerating Catalytic Advancements Through the Precision of High-Throughput Experiments & Calculations” symposium during the ACS Fall 2024 Conference in Denver, CO. The award recognized excellence in presenting cutting-edge research in computational catalysis.
+  Received a **ACSFALL2024 best oral presentation Award** **[ACSF ALL 2024](https://acs.digitellinc.com/p/s/accelerating-catalytic-advancements-through-the-precision-of-high-throughput-experiments-and-calculations-609622)** at the “Accelerating Catalytic Advancements Through the Precision of High-Throughput Experiments & Calculations” symposium during the ACS Fall 2024 Conference in Denver, CO. The award recognized excellence in presenting cutting-edge research in computational catalysis.
 
 - **July 2024**  
   Attended a workshop on Quantum multiscale modeling at BSU organized by Dr. Oliviero Andreussi as his collaborators  **[Quantum multiscale modeling](http://www.quantum-multiscale.org/)** 
