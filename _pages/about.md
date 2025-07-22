@@ -84,12 +84,12 @@ Awards
 ======
 
 - **2024**  
-  - ACSFALL2024 best oral presentation   
-  - CASCADE RAIN Travel Awards  – For presentations at major applied mathematics and Numerical methods
-- **2021**  
+  - ACS FALL 2024 best oral presentation   
+  - CASCADE RAIN Travel Awards  – For presentations at a conferemce about applied mathematics and Numerical methods in Oregon State University
+- **2022**  
   - [Boise State GEM Scholarship](https://www.boisestate.edu/graduatecollege/funding/merit-based-gem-scholarship/) – Merit-based graduate award  
   - Graduate Assistantship – Research funding from Boise State University  
+- **2020**  
   - AIMS Master's Scholarship (Mastercard Foundation) – Full scholarship for climate-focused graduate studies
-
-- **2015**  
+- **2014**  
   - The Uganda Government National Merit Scholarship – Full undergraduate scholarship based on academic excellence at Makerere University
