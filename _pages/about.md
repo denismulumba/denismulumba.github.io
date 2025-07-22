@@ -75,7 +75,7 @@ Recent Updates
   Awarded the **[ CASCADE RAIN 2025 travel award ](https://sites.google.com/oregonstate.edu/rain2025/travel-support)** Awarded the Cascade RAIN 2025 Travel Award in recognition of graduate research contributions in applied mathematics. The award supports conference travel and highlights emerging researcgh in the field.
 
 - **September 2024**  
-  Received a **ACSFALL2024 best oral presentation Award** **[ACSF ALL 2024](https://acs.digitellinc.com/p/s/accelerating-catalytic-advancements-through-the-precision-of-high-throughput-experiments-and-calculations-609622)** at the “Accelerating Catalytic Advancements Through the Precision of High-Throughput Experiments & Calculations” symposium during the ACS Fall 2024 Conference in Denver, CO. The award recognized excellence in presenting cutting-edge research in computational catalysis.
+  Received **ACS FALL 2024 best oral presentation Award** **[ACSF ALL 2024](https://acs.digitellinc.com/p/s/accelerating-catalytic-advancements-through-the-precision-of-high-throughput-experiments-and-calculations-609622)** at the “Accelerating Catalytic Advancements Through the Precision of High-Throughput Experiments & Calculations” symposium during the ACS Fall 2024 Conference in Denver, CO. The award recognized excellence in presenting cutting-edge research in computational catalysis.
 
 - **July 2024**  
   Attended a workshop on Quantum multiscale modeling at BSU organized by Dr. Oliviero Andreussi as his collaborators  **[Quantum multiscale modeling](http://www.quantum-multiscale.org/)** 
