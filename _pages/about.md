@@ -8,53 +8,52 @@ redirect_from:
 ---
 
 {% include base_path %}
+I am a Computational Scientist and Ph.D. Candidate in Computing (CMSE) at [Boise State University](https://www.boisestate.edu/), affiliated with the School of Computing. My research centers on the development and implementation of numerical methods for continuum solvation models, with applications in catalysis and materials modeling. I specialize in high-performance computing (HPC), scientific code development, and the optimization of algorithms for large-scale simulations and data analysis.
 
-I am a computational scientist and Ph.D. Candidate in Computing (CMSE) at [Boise State University](https://www.boisestate.edu/), based in the [School of Computing](https://www.boisestate.edu/computing/).My speciality is in numerical methods for continuum solvation models, catalysis and matrial modeling using [high-performance computing (HPC)](https://www.ibm.com/think/topics/hpc), data analysis, code development, implementation and optimization.
+### My Research
 
-My research focuses on building scalable deep learning models for [computer vision](https://www.ibm.com/think/topics/computer-vision), climate, and hydrological systems. I work extensively with land surface models, such as [CLM5](https://www.cesm.ucar.edu/models/clm), applying advanced machine learning techniques to emulate complex simulations with reduced computational cost. A core part of my work involves [uncertainty quantification](https://en.wikipedia.org/wiki/Uncertainty_quantification), enabling more trustworthy model predictions, particularly in high-risk or data-scarce regions.
+My research centers on developing high-accuracy numerical solvers for partial differential equations (PDEs) with **interface discontinuities** and complex geometries, particularly in **electrostatics**, **materials modeling**, and **multi-domain physics**. I work extensively with **immersed interface methods (IIM)** and **embedded boundary techniques**, crafting robust algorithms that preserve sharp jump conditions across irregular domains in both 2D and 3D.
 
-I place strong emphasis on [interoperability](https://www.ogc.org/about/interoperability/), ensuring that models, data formats, and computing workflows can integrate smoothly across tools, platforms, and disciplines. From developing machine learning surrogates that plug into scientific workflows to managing geospatial data pipelines that serve diverse users, my work supports open, modular, and collaborative science.
+At the core of my work is the integration of **spectral solvers** (e.g., discrete sine transforms) with **iterative Krylov methods** like GMRES to efficiently solve large-scale elliptic systems. I implement these solvers in hybrid **Python–Fortran** codebases optimized for **high-performance computing (HPC)** clusters. My goal is to create scalable, accurate numerical frameworks that bridge mathematical rigor with real-world applications in electrostatics, fluid interfaces, and materials science.
 
-I am passionate about bridging scientific research with practical solutions, using AI, geospatial modeling, and data engineering to tackle real-world challenges in climate adaptation, water resource management, and environmental prediction. Through reproducible, interdisciplinary research, I aim to make complex models more accessible, explainable, and impactful.
+I also explore **data-driven acceleration** techniques—such as reduced models and RBF interpolation—to enable faster simulations without sacrificing physical accuracy. My work emphasizes **modularity**, **reproducibility**, and **performance portability**, ensuring that scientific computing pipelines remain adaptable across domains.
 
-Research Interests
-======
+### Research Interests
 
-- **Machine Learning Emulators for Climate Models**  
-  I develop deep learning surrogates (e.g., [CNNs](https://www.ibm.com/think/topics/convolutional-neural-networks), [LSTMs](https://developer.nvidia.com/discover/lstm)) to emulate complex climate simulations such as CLM5. These models significantly reduce computational costs while maintaining physical fidelity, enabling faster and scalable climate scenario analysis.
+* **Immersed Interface & Embedded Boundary Methods**
+  I design finite difference and interpolation-based solvers for elliptic PDEs with interface jumps in complex domains, enabling accurate treatment of heterogeneous media and sharp interfaces.
 
-- **Uncertainty Quantification & Interpretability**  
-  I apply evidential deep learning to quantify prediction uncertainty in climate and hydrological models. Tools like [SHAP](https://shap.readthedocs.io/en/latest/) and [Sobol indices](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.sobol_indices.html) help ensure that model outputs are transparent, interpretable, and scientifically robust.
+* **Spectral & Krylov Solvers for Poisson-Type Equations**
+  I combine fast sine/cosine transforms with iterative solvers (e.g., GMRES) to handle interface-coupled electrostatic systems with high accuracy and efficiency.
 
-- **Geospatial Pattern Analysis**  
-  My work involves identifying and analyzing spatial climate patterns using machine learning and statistical techniques. I implement scalable workflows using Self-Organizing Maps (SOMs) and [Empirical Orthogonal Functions (EOFs)](https://ajdawson.github.io/eof2/eofs.html) in Python/[Dask](https://www.dask.org/) to detect anomalies and validate climate models.
+* **High-Performance Scientific Computing**
+  My code runs on SLURM-based HPC clusters using MPI-parallel workflows and hybrid Python–Fortran backends, supporting large-scale 3D simulations with jump conditions and region-based source terms.
 
-- **High-Performance Computing (HPC) & Big Data**  
-  I optimize environmental data workflows on multi-node GPU-accelerated clusters using tools like Dask, [Xarray](https://docs.xarray.dev/en/stable/), [Docker](https://www.docker.com/), and [Singularity](https://docs.sylabs.io/guides/3.5/user-guide/introduction.html). This includes efficient job scheduling, parallel processing, and large-scale data engineering for climate and Earth system modeling.
+* **Radial Basis Function (RBF) Interpolation & Interface Fitting**
+  I apply RBFs for accurate geometric representation of curved interfaces and for computing geometrical quantities (normals, curvatures) needed in jump condition enforcement.
 
-- **Hybrid Climate Modeling with AI**  
-  I explore integrated modeling approaches that combine physics-based climate models (e.g., CLM5, [WRF](https://www.mmm.ucar.edu/models/wrf)) with machine learning. This hybrid methodology improves prediction reliability and supports actionable insights for climate mitigation and decision-making.
+* **In Silico Materials Modeling**
+  I use DFT codes (Quantum ESPRESSO, ASE) to compute electrostatic and vibrational properties, connecting numerical interface solvers to electronic structure data.
 
-Technical Skills
-======
+* **Data-Driven Physics**
+  While not my primary focus, I explore how machine learning and symbolic regression can be used to accelerate components of traditional PDE solvers or extract interpretable physical laws from simulation data.
 
-- **Programming & Scripting**  
-  Python (NumPy, Pandas, SciPy, Simpy), MATLAB, Java,  PyTorch, Bash, SQL
+### Technical Skills
 
-- **Machine Learning & AI**  
-  PyTorch, TensorFlow, Keras, scikit-learn; experience with deep learning (CNNs, RNNs), generative AI, and large language models
+* **Programming & Scientific Computing**
+  Python (NumPy, SciPy, Matplotlib, SymPy), Fortran90/95, Bash, Git, SLURM job scripting
 
-- **Big Data & HPC**  
-  Dask, Apache Spark, Hadoop; GPU-accelerated computing, Slurm-based job scheduling, parallel processing, memory optimization; cloud platforms including AWS and Google Cloud
+* **Numerical Solvers**
+  Finite difference methods, discrete transforms (DST, DCT), iterative solvers (GMRES, BiCG), matrix-free methods, RBF interpolation, SVD/PCA analysis
 
-- **Geospatial & Climate Tools**  
-  GIS software, Xarray & Dask for multi-dimensional arrays, NetCDF/Zarr formats, climate modeling tools like WRF and CLM5, and operators like CDO and NCO
+* **Scientific Libraries & Tools**
+  MPI, ASE, Phonopy, Quantum ESPRESSO, Matplotlib
 
-- **DevOps & Data Engineering**  
-  Docker, Singularity, CI/CD pipelines, Git/GitHub for version control, Linux shell scripting for automation, and reproducible environments
+* **HPC & Performance Optimization**
+  MPI, hybrid Python–Fortran pipelines, job arrays, profiling with `gprof` and `line_profiler`, cluster deployment (HPC SLURM environment)
 
-- **Data Visualization**  
-  Matplotlib, Cartopy, HoloViews, Plotly, Tableau; experienced in creating insightful and publication-ready graphics for complex scientific data
+* **Visualization & Data Analysis**
+  Matplotlib, ParaView, Plotly, Pandas, 3D visualization ( matplotlib 3D), LaTeX 
 
 
 Education
