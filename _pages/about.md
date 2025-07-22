@@ -60,22 +60,22 @@ Technical Skills
 Education
 ======
 
-- **Ph.D. in Computing (Data Science)**  
-  [Boise State University](https://www.boisestate.edu/), Boise, ID, USA — Expected Fall 2025  
+- **Ph.D. in Computing (Computational Mathematics Science and Engineering)**  
+  [Boise State University](https://www.boisestate.edu/), Boise, ID, USA — Expected Fall 2027  
 
-- **M.Sc. in Mathematical Sciences (Climate Data Science)**  
+- **M.Sc. in Mathematical Sciences (Climate modeling and Data Assimilation)**  
   [African Institute for Mathematical Sciences (AIMS)](https://aims.ac.rw/), Kigali, Rwanda — 2020–2021  
 
-- **B.Sc. in Physics**  
-  [Copperbelt University](https://www.cbu.ac.zm/), Kitwe, Zambia — 2015–2019  
+- **B.ScED. Mathematics & Physics**  
+  [Makerere University](https://mak.ac.ug/), Kampala, Uganda— 2014–2018  
 
 Recent Updates
 ======
 
-- **June 2025**  
-  Awarded the **[AWWA Pacific Northwest Section Scholarship](https://www.pnws-awwa.org/careers/scholarship-application/)** for graduate research excellence in water and climate data science, recognizing leadership in water resource analytics.
+- **April 2025**  
+  Awarded the **[ CASCADE RAIN 2025 travel award ](https://sites.google.com/oregonstate.edu/rain2025/travel-support)** Awarded the Cascade RAIN 2025 Travel Award in recognition of graduate research contributions in applied mathematics. The award supports conference travel and highlights emerging researcgh in the field.
 
-- **Summer 2025**  
+- **September 2024**  
   Received a **Travel Award** to attend the **[NCAR CESM Tutorial](https://www.cesm.ucar.edu/events/tutorials)** in Boulder, CO, for advanced training in Earth system modeling and simulation.
 
 - **September 2024**  
