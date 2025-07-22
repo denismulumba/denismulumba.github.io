@@ -12,7 +12,7 @@ I am a Computational Scientist and Ph.D. Candidate in Computing (CMSE) at [Boise
 
 ### My Research
 
-My research centers on developing high-accuracy numerical solvers for partial differential equations (PDEs) with **interface discontinuities** and complex geometries, particularly in **electrostatics**, **materials modeling**, and **multi-domain physics**. I work extensively with **immersed interface methods (IIM)** and **embedded boundary techniques**, crafting robust algorithms that preserve sharp jump conditions across irregular domains in both 2D and 3D.
+My research centers on developing high-accuracy numerical solvers for partial differential equations (PDEs) with **interface discontinuities** and complex geometries, particularly in [electrostatics for continuum solvation models](https://pubs.aip.org/aip/jcp/article/136/6/064102/192133), **materials modeling** specifically [Trnasition metal decalcogenides](https://www.nature.com/articles/natrevmats201733)as catalysts, and **multi-domain physics**. I work extensively with **immersed interface methods (IIM)** and **embedded boundary techniques**, crafting robust algorithms that preserve sharp jump conditions across irregular domains in both 2D and 3D.
 
 At the core of my work is the integration of **spectral solvers** (e.g., discrete sine transforms) with **iterative Krylov methods** like GMRES to efficiently solve large-scale elliptic systems. I implement these solvers in hybrid **Python** codebases optimized for **high-performance computing (HPC)** clusters. My goal is to create scalable, accurate numerical frameworks that bridge mathematical rigor with real-world applications in electrostatics, fluid interfaces, and materials science.
 
