@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am a data scientist and Ph.D. Candidate in Computing (Data Science) at [Boise State University](https://www.boisestate.edu/), based in the [School of Computing](https://www.boisestate.edu/computing/). I specialize in artificial intelligence, machine learning, [high-performance computing (HPC)](https://www.ibm.com/think/topics/hpc), data engineering, hydrology, and climate data science.
+I am a computational scientist and Ph.D. Candidate in Computing (CMSE) at [Boise State University](https://www.boisestate.edu/), based in the [School of Computing](https://www.boisestate.edu/computing/).My speciality is in numerical methods for continuum solvation models, catalysis and matrial modeling using [high-performance computing (HPC)](https://www.ibm.com/think/topics/hpc), data analysis, code development, implementation and optimization.
 
 My research focuses on building scalable deep learning models for [computer vision](https://www.ibm.com/think/topics/computer-vision), climate, and hydrological systems. I work extensively with land surface models, such as [CLM5](https://www.cesm.ucar.edu/models/clm), applying advanced machine learning techniques to emulate complex simulations with reduced computational cost. A core part of my work involves [uncertainty quantification](https://en.wikipedia.org/wiki/Uncertainty_quantification), enabling more trustworthy model predictions, particularly in high-risk or data-scarce regions.
 
@@ -39,7 +39,7 @@ Technical Skills
 ======
 
 - **Programming & Scripting**  
-  Python (NumPy, Pandas, SciPy, Xarray), R, MATLAB, Java, Scala, PySpark, Bash, SQL
+  Python (NumPy, Pandas, SciPy, Simpy), MATLAB, Java,  PyTorch, Bash, SQL
 
 - **Machine Learning & AI**  
   PyTorch, TensorFlow, Keras, scikit-learn; experience with deep learning (CNNs, RNNs), generative AI, and large language models
@@ -61,7 +61,7 @@ Education
 ======
 
 - **Ph.D. in Computing (Computational Mathematics Science and Engineering)**  
-  [Boise State University](https://www.boisestate.edu/), Boise, ID, USA — Expected Fall 2027  
+  [Boise State University](https://www.boisestate.edu/), Boise, ID, USA — Expected to graduate by Fall 2026  
 
 - **M.Sc. in Mathematical Sciences (Climate modeling and Data Assimilation)**  
   [African Institute for Mathematical Sciences (AIMS)](https://aims.ac.rw/), Kigali, Rwanda — 2020–2021  
