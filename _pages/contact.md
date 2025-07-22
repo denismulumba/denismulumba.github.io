@@ -3,7 +3,7 @@ permalink: /contact/
 title: "Contact"
 author_profile: true
 ---
-Below is my contact information and links to various platforms where my work and research appear. 
+Below is my contact information and links to various profesional platforms where my research can appear. 
 
 - **Email:** denismulumba_at_u.boisestate_dot_edu  
 - **GitHub:** [denismulumba](https://github.com/denismulumba)     
