@@ -47,7 +47,7 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 read_more                : "enabled" # if enabled, adds a "read more" link to excerpts
-linkedin                 : "kachinga-silwimba" # "https://www.linkedin.com/in/kachinga-silwimba/"
+linkedin                 : "Mulumba Denis" # "https://www.linkedin.com/in/mulumba-denis-9465991b9"
 future                   : true
 
 # SEO Related
