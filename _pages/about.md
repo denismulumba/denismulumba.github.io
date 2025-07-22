@@ -41,7 +41,7 @@ I also explore **data-driven acceleration** techniques—such as reduced models 
 ### Technical Skills
 
 * **Programming & Scientific Computing**
-  Python (NumPy, SciPy, Matplotlib, SymPy), Fortran90/95, Bash, Git, SLURM job scripting
+  Python (NumPy, SciPy, Matplotlib, SymPy), Bash, Git, SLURM job scripting
 
 * **Numerical Solvers**
   Finite difference methods, discrete transforms (DST, DCT), iterative solvers (GMRES, BiCG), matrix-free methods, RBF interpolation, SVD/PCA analysis
