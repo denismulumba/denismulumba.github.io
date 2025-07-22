@@ -7,16 +7,16 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kachinga Silwimba"
+title                    : "Denis Mulumba"
 title_separator          : "-"
 name                     : &name "Kachinga Silwimba"
 description              : &description "personal description"
-url                      : https://kachingasilwimba.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://denismulumba.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kachingasilwimba.github.io"
+repository               : "denismulumba.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
-seo_description          : "Site Kachinga Silwimba, Graduate Research Assistant at Boise State University"
+seo_description          : "Site Denis Mulumba, Graduate Research Assistant at Boise State University"
 words_per_minute         : 160
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -60,7 +60,7 @@ yandex_site_verification :
 twitter:
 
 # facebook:
-#   username               : "Kachinga J Silwimba"
+#   username               : "Denis Mulumba"
 #   app_id                 :
 #   publisher              :
 # og_image                 : #"site-logo.png" # Open Graph/Twitter default site image
@@ -80,12 +80,12 @@ twitter:
 
 # Site Author
 author:
-  name             : "Kachinga Silwimba"
-  avatar           : "assets/kachinga.png"
+  name             : "Denis Mulumba"
+  avatar           : "assets/Denis.JPG"
   bio              : "Ph.D. Candidate at Boise State University in the School of Computing"
   location         : "Boise, ID, USA"
-  googlescholar    : "https://scholar.google.com/citations?user=UluXFnQAAAAJ&hl=en"
-  linkedin         : "kachinga-silwimba" # "https://www.linkedin.com/in/kachinga-silwimba/"
+  googlescholar    : "https://scholar.google.com/citations?view_op=search_authors&mauthors=Denis+mulumba&hl=en&oi=ao"
+  linkedin         : "Mulumba Denis " # https://www.linkedin.com/in/mulumba-denis-9465991b9
   email            :
   bluesky          :  
   uri              : 
@@ -95,12 +95,12 @@ author:
   flickr           :
   # facebook         : 
   foursquare       :
-  github           : "kachingasilwimba"
+  github           : "denismulumba"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  orcid            : "https://orcid.org/0009-0005-9013-1032"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
