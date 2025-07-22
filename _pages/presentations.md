@@ -5,38 +5,40 @@ permalink: /presentations/
 author_profile: true
 ---
 
-## Understanding Parameter Uncertainty in CLM5 with Machine Learning for Enhanced Hydrological Predictions  
-**Event:** <a href="https://sites.google.com/boisestate.edu/spuds/home#h.j6w9uj5xhnh"
+## Transition Metal Dichalcogenides with Double Vacancies as Catalysts for Efficient CO₂ Reduction to Methanol  
+**Event:** <a href="https://app.jotform.com/251126283167152"
    style="display:inline-block;
           color:#007bff;
           text-decoration:none;
           margin-right:1rem;">
-  The Scientific comPUting and Data Science (SPUDS) Seminar
+  2025 Interfaces for Energy and the Environment Conference
 </a>    
-**Location:** Boise, ID, USA    
-**Date:** February 18, 2025  
+**Location:** Seattle, Wa, USA    
+**Date:** May 2025  
 
-- Evaluated soil moisture variability across CONUS using EOF analysis 
-- Clustered moisture patterns with EOF–SOM to refine parameter calibration  
-- Quantified epistemic and aleatoric uncertainties in LAI via EDNNs  
-- Extended EDNN framework to predict hydrological variables in ungauged basins
+- Carbondioxide emission and conversion to methanol as a way to mitigate climate change
+- Transition metal dichalcogenides (TMDs) with double vacancies as catalysts for CO₂ reduction
+- Demonstrated the potential of TMDs in enhancing CO₂ conversion efficiency to methanol through computational modeling and simulations. 
+- Screening TMDs for their catalytic properties and understanding the mechanisms of CO₂ reduction reactions to find a better catalyst as compared to Molebdenum Disulfide.
   
 ---
-## Emulating and Evaluating Uncertainty in CLM5 Simulations Using Evidential Deep Neural Networks  
-**Event:** <a href="https://www.agu.org/annual-meeting-2024"
+## Immersed Interface Method for the Generalized Poisson Equation
+
+**Event:** <a href=" https://sites.google.com/site/cascaderainmeetings/"
    style="display:inline-block;
           color:#007bff;
           text-decoration:none;
           margin-right:1rem;">
-  American Geophysical Union 2024 Annual Meeting
+  Cascade RAIN Meeting at Oregon State University, April 26
 </a>      
-**Location:** Washington, D.C., USA    
-**Date:** December 2024  
+**Location:** Corvallis, OR., USA    
+**Date:** April 2025 
 
-- Presented a novel approach utilizing EDNN to deliver enhanced uncertainty estimates in CLM5 simulations and reduce computational costs.
+- Presented a immersed interface method for solving the generalized Poisson equation and with complex geometries and interface jumps in 3D.
   
 ---
-## Assessing Soil Hydraulic Parameter Impacts and Performing Uncertainty Quantification in Climate Model Simulations Using Advanced Analytical Techniques  
+## The Immersed Interface Method for Continuum solvation models
+  
 **Event:** <a href="https://sites.google.com/boisestate.edu/spuds/home#h.wst0qqe51wrf"
    style="display:inline-block;
           color:#007bff;
@@ -45,81 +47,25 @@ author_profile: true
   The Scientific comPUting and Data Science (SPUDS) Seminar
 </a>     
 **Location:** Boise, ID, USA     
-**Date:** October 22, 2024  
+**Date:** September 10, 2024  
 
-- Identified dominant soil moisture variability modes with EOF analysis  
-- Clustered EOF modes by soil texture and climate via SOM  
-- Captured aleatoric & epistemic uncertainties in perturbed ensembles using EDNNs  
-- Tested transferability of methods in CAMELS basins
+- Introduced the immersed interface method (IIM) for solving continuum solvation models, focusing on its application to electrostatic systems with complex geometries and interface jumps.  
+- Gave mathematical example in 1D and 2D, and discussed the implementation of IIM in Python.
   
 ---
-## History Matching with Evidential Deep Neural Networks to Improve Terrestrial Water Storage Simulations in the Community Land Model  
-**Event:** <a href="https://www.pnnl.gov/events/hydroml-2024-symposium"
+##  Tailoring Surface Topology Maps for Enhanced Catalysis Simulations 
+**Event:** <a href="https://www.acs.org/pressroom/news-room/meeting-releases-fall-2024.html"
    style="display:inline-block;
           color:#007bff;
           text-decoration:none;
           margin-right:1rem;">
-  HydroML 2024 Symposium
+  American Chemical Soceity Fall 2024 Meeting
 </a>       
-**Location:** Richland, WA, USA   
-**Date:** May 2024  
+**Location:** Denver, Co, 2024  
 
-- Introduced an EDNN-based history matching method that provides richer uncertainty estimates in terrestrial water storage simulations, improving confidence in model outputs.
-
+- Presented a talk on the use of surface topology maps to enhance the accuracy and efficiency of catalysis simulations, focusing on the application of these maps in computational materials science.
+- Discussed the integration of surface topology maps with machine learning techniques to improve the predictive capabilities of catalysis simulations.
+- Explored the potential of surface topology maps in identifying key catalytic sites and optimizing reaction pathways in complex materials systems.
 ---
-## Emulating and Evaluating Uncertainty Estimates in CLM5 Terrestrial Water Storage Simulations Using Evidential Deep Neural Networks  
-**Event:** <a href="https://www.cesm.ucar.edu/events/351/agenda"
-   style="display:inline-block;
-          color:#007bff;
-          text-decoration:none;
-          margin-right:1rem;">
-  29th Annual CESM Workshop
-</a>   
-**Location:** Boulder, CO, USA     
-**Date:** June 2024  
 
-- Highlighted how pinpointing high-uncertainty regions guides better decision-making and model refinements in climate simulations.
-
----
-## Combining Empirical Orthogonal Functions and Self-Organizing Maps to Understand Soil Parameter Influence in CLM5   
-**Event:** <a href="https://www.boisestate.edu/coen/news-events/annual-design-showcase/"
-   style="display:inline-block;
-          color:#007bff;
-          text-decoration:none;
-          margin-right:1rem;"> 
-  College of Engineering Fall Design Showcase
-</a>    
-**Location:** Boise, ID, USA    
-**Date:** November 2023  
-
-- Applied EOF and SOM analysis to explore relationships between soil properties and moisture dynamics in CLM5.
-
----
-## Assessing the Effect of Soil Parameter Setups on Soil Moisture in CLM5 over the Continental U.S. Using EOF Analysis  
-**Event:** <a href="https://www.boisestate.edu/graduatecollege/showcase/"
-   style="display:inline-block;
-          color:#007bff;
-          text-decoration:none;
-          margin-right:1rem;"> 
-  Boise State University Graduate Showcase
-</a>      
-**Location:** Boise, ID, USA     
-**Date:** April 2023  
-
-- Demonstrated how different soil parameter configurations alter moisture patterns, informing improvements to model calibration and prediction accuracy.
-
----
-## Integrating Empirical Orthogonal Functions into Machine Learning Workflows  
-**Event:** <a href="https://www.boisestate.edu/rcs/research-computing-day/"
-   style="display:inline-block;
-          color:#007bff;
-          text-decoration:none;
-          margin-right:1rem;"> 
-  Research Computing Days
-</a>     
-**Location:** Boise, ID, USA      
-**Date:** April 2023  
-
-- Showcased EOF integration for enhanced climate-data feature extraction and interpretability.  
-- Organized a coding competition to foster collaboration and innovation among participants.
 
