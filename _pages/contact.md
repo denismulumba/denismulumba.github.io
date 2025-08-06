@@ -7,6 +7,6 @@ Below is my contact information and links to various profesional platforms where
 
 - **Email:** denismulumba@u.boisestate.edu  
 - **GitHub:** [denismulumba](https://github.com/denismulumba)     
-- **LinkedIn:** [mulumba-denis](linkedin.com/in/mulumba-denis)   
+- **LinkedIn:** [mulumba-denis](https://linkedin.com/in/mulumba-denis)   
 - **Google Scholar:** [Denis Mulumba](https://scholar.google.com/](https://scholar.google.com/citations?view_op=search_authors&mauthors=Denis+mulumba&hl=en&oi=ao))     
 
