@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-##  
+ 
 **AIMS Rwanda class of 2021 graduation**   
 **Published:** July 14, 2021  
 
