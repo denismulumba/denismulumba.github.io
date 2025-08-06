@@ -17,7 +17,7 @@ author_profile: true
 
 ---
 ## Boise State University Department of Chemistry and Biochemistry Student Recap
-**ACS Fall 2024 best oral presentatiom**  
+**ACS Fall 2024 best oral presentation**  
 **Published:** Fall, 2024  
 
 **Summary:**  
