@@ -1,106 +1,53 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<title>CSCW paper lengths, 2000-2018</title>
-<link rel="stylesheet" href="style.css"> <!-- Link your CSS -->
-<style>
-/* =========================
-   BASE STYLES
-========================= */
-body {
-    font-family: Helvetica, Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #00007f;
-    color: #fff;
-}
-
-/* Links */
-a { color: #fff000; }
-a:visited { color: #888888; }
-
-/* =========================
-   HEADER
-========================= */
-#header {
-    width: 100%;
-    height: 180px; /* default for laptops */
-    background-image: url(/web/20110716155257im_/http://stuartgeiger.com/blueprints/header.png);
-    background-repeat: no-repeat;
-    background-position: center top;
-    background-size: contain; /* ensures the image scales */
-}
-
-/* Large screens */
-@media (min-width: 1600px) {
-    #header { height: 220px; }
-}
-
-/* Medium screens (desktop/laptop) */
-@media (max-width: 1400px) {
-    #header { height: 140px; }
-}
-
-/* Tablets */
-@media (max-width: 900px) {
-    #header { height: 120px; }
-}
-
-/* Mobile */
-@media (max-width: 600px) {
-    #header { height: 200px; }
-}
-
-/* Push page content below header */
-body > h2 { margin-top: 20px; }
-ul { margin-left: 20px; }
-p.tab { margin-left: 20px; }
-</style>
+    <meta charset="UTF-8">
+    <title>CSCW paper lengths, 2000-2018</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-<!-- HEADER IMAGE -->
-<div id="header"></div>
+    <!-- HEADER IMAGE -->
+    <div id="header"></div>
 
-<!-- PAGE CONTENT -->
-<h2>Supplemental interactive graphs and data tables for <i>The Rise and Fall of the Note: Changing Paper Lengths in ACM CSCW, 2000-2018</i></h2>
-<p><i>Now with bonus 2019 data!</i></p>
-<h3>By R. Stuart Geiger, UC-Berkeley Institute for Data Science</h3>
-<p>This is a supplement to <a href="https://arxiv.org/abs/1908.10808">a paper</a> to appear in <i>Proceedings of the ACM on Human-Computer Interaction</i> (PACMHCI) as part of the ACM's 2019 conference on Computer-Supported Cooperative Work (CSCW)</p>
-<p>You can see more data, code, and documentation on <a href="https://github.com/staeiou/cscw19-paper-lengths">this paper's GitHub repo</a>, but this page is for graphs and figures that require fancy javascript magic to render, hence the separate site.</p>
+    <!-- PAGE CONTENT -->
+    <h2>Supplemental interactive graphs and data tables for <i>The Rise and Fall of the Note: Changing Paper Lengths in ACM CSCW, 2000-2018</i></h2>
+    <p><i>Now with bonus 2019 data!</i></p>
+    <h3>By R. Stuart Geiger, UC-Berkeley Institute for Data Science</h3>
+    <p>This is a supplement to <a href="https://arxiv.org/abs/1908.10808">a paper</a> to appear in <i>Proceedings of the ACM on Human-Computer Interaction</i> (PACMHCI) as part of the ACM's 2019 conference on Computer-Supported Cooperative Work (CSCW)</p>
+    <p>You can see more data, code, and documentation on <a href="https://github.com/staeiou/cscw19-paper-lengths">this paper's GitHub repo</a>, but this page is for graphs and figures that require fancy javascript magic to render, hence the separate site.</p>
 
-<h2>Data</h2>
-<ul>
-<li><a href="web_table.html">Interactive data table</a> (note: takes some time to load & search)</li>
-<li><a href="cscw19_geiger_data.csv">Data in CSV format</a></li>
-<li><a href="data_dictionary.html">Data dictionary / variable descriptions</a></li>
-</ul>
+    <h2>Data</h2>
+    <ul>
+        <li><a href="web_table.html">Interactive data table</a> (note: takes some time to load & search)</li>
+        <li><a href="cscw19_geiger_data.csv">Data in CSV format</a></li>
+        <li><a href="data_dictionary.html">Data dictionary / variable descriptions</a></li>
+    </ul>
 
-<h2>Interactive figures</h2>
-<p>Note: Hover over a data point to show more info, although there is no way to make a label stick. These figures are dynamically resizable based on your browser window. You can interact with the graph to zoom and pan by drawing boxes and dragging the graph, as well as through the buttons at the top-right.</p>
+    <h2>Interactive figures</h2>
+    <p>Hover over a data point to show more info. These figures are dynamically resizable. You can zoom, pan, and drag using browser controls or the buttons at the top-right.</p>
 
-<h4>Box+swarmplots by year</h4>
-<ul>
-<li><a href="figures/body_len_words_nopunct_by_year.html">Main body length (no references/appendices) of all papers in words (nopunct method)</a>.</li>
-<li><a href="figures/body_len_words_nopunct_nonnotes_by_year.html">Main body length of non-notes (>4 pages) in words (nopunct method)</a>.</li>
-<li><a href="figures/page_len_by_year.html">Length of papers in pages</a>.</li>
-<li><a href="figures/words_per_page_nopunct_by_year.html">Words per page (nopunct method)</a>.</li>
-<li><a href="figures/ref_count_approx_by_year.html">Number of references (approximate)</a>.</li>
-<li><a href="figures/body_len_words_punct_by_year.html">Main body length (no references/appendices) of all papers in words (punct method)</a>.</li>
-</ul>
+    <h4>Box+swarmplots by year</h4>
+    <ul>
+        <li><a href="figures/body_len_words_nopunct_by_year.html">Main body length (nopunct method)</a></li>
+        <li><a href="figures/body_len_words_nopunct_nonnotes_by_year.html">Main body length of non-notes (>4 pages)</a></li>
+        <li><a href="figures/page_len_by_year.html">Length of papers in pages</a></li>
+        <li><a href="figures/words_per_page_nopunct_by_year.html">Words per page (nopunct method)</a></li>
+        <li><a href="figures/ref_count_approx_by_year.html">Number of references (approximate)</a></li>
+        <li><a href="figures/body_len_words_punct_by_year.html">Main body length (punct method)</a></li>
+    </ul>
 
-<h4>Scatterplots</h4>
-<ul>
-<li><a href="figures/scatter_ref_count_by_body_len_words_nopunct.html">Number of references by main body length in words (nopunct)</a>.</li>
-<li><a href="figures/scatter_words_nopunct_per_page_by_len_words_nopunct.html">Words per page (nopunct) by main body length in words (nopunct).</a></li>
-</ul>
+    <h4>Scatterplots</h4>
+    <ul>
+        <li><a href="figures/scatter_ref_count_by_body_len_words_nopunct.html">Number of references by main body length (nopunct)</a></li>
+        <li><a href="figures/scatter_words_nopunct_per_page_by_len_words_nopunct.html">Words per page (nopunct) by main body length</a></li>
+    </ul>
 
-<h3>Software used</h3>
-<ul>
-<li><a href="https://plot.ly">plot.ly</a></li>
-<li><a href="https://datatables.net">datatables</a></li>
-</ul>
+    <h3>Software used</h3>
+    <ul>
+        <li><a href="https://plot.ly">plot.ly</a></li>
+        <li><a href="https://datatables.net">datatables</a></li>
+    </ul>
 
 </body>
 </html>
