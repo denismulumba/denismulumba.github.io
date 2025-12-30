@@ -1,166 +1,190 @@
 /* =========================
    BASE STYLES
-   ========================= */
-
+========================= */
 body {
-	font-family: Helvetica, Arial, sans-serif;
-	margin: 0;
-	padding: 0;
-	min-height: 100%;
-	background-color: #00007f;
-	color: #fff;
-	overflow-x: hidden;
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    min-height: 100%;
+    background-color: #00007f;
+    color: #fff;
+    overflow-x: hidden;
 }
 
 a {
-	color: #fff000;
+    color: #fff000;
+    text-decoration: none;
 }
 
 a:visited {
-	color: #888888;
+    color: #888888;
 }
 
 /* =========================
    HEADER
-   ========================= */
+========================= */
+#header {
+    width: 100%;
+    height: 180px; /* default laptop */
+    background-image: url(/web/20110716155257im_/http://stuartgeiger.com/blueprints/header.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: contain;
+    box-sizing: border-box;
+}
 
-#extraDiv1 {
-	position: relative;
-	width: 100%;
-	height: 260px;
+/* Header adjustments by screen */
+@media (min-width: 1600px) {
+    #header { height: 220px; }
+}
 
-	background: url(/web/20110716155257im_/http://stuartgeiger.com/blueprints/header.png) center center no-repeat;
-	background-size: cover;
+@media (max-width: 1400px) {
+    #header { height: 140px; }
+}
+
+@media (max-width: 900px) {
+    #header { height: 120px; }
+}
+
+@media (max-width: 600px) {
+    #header { height: 200px; }
 }
 
 /* =========================
    MAIN CONTAINER
-   ========================= */
-
+========================= */
 #container {
-	background: url(/web/20110716155257im_/http://stuartgeiger.com/blueprints/left-border-background.png) repeat-y left top;
-
-	margin: 20px auto;
-	padding-left: 53px;
-
-	max-width: 1100px;
-	box-sizing: border-box;
+    background: url(/web/20110716155257im_/http://stuartgeiger.com/blueprints/left-border-background.png) repeat-y left top;
+    margin: 20px auto;
+    padding-left: 53px;
+    max-width: 1100px;
+    box-sizing: border-box;
 }
 
 /* =========================
    CONTENT SECTIONS
-   ========================= */
-
+========================= */
 #intro,
 #supportingText {
-	padding-top: 10px;
-	max-width: 480px;
-	width: 100%;
-	text-align: justify;
+    padding-top: 10px;
+    max-width: 480px;
+    width: 100%;
+    text-align: justify;
 }
 
 #intro h3,
 #supportingText h3 {
-	font-family: 'Lithos Pro', Arial, sans-serif;
-	font-size: 24px;
-	line-height: 25px;
-	text-align: center;
+    font-family: 'Lithos Pro', Arial, sans-serif;
+    font-size: 24px;
+    line-height: 25px;
+    text-align: center;
 }
 
 /* =========================
    QUICK SUMMARY
-   ========================= */
-
+========================= */
 #quickSummary p.p1 span {
-	display: none;
+    display: none;
 }
 
 #quickSummary p.p2 {
-	position: relative;
-	margin: 20px auto;
-	max-width: 450px;
-	font-size: 16px;
-	z-index: 10;
+    position: relative;
+    margin: 20px auto;
+    max-width: 450px;
+    font-size: 16px;
+    z-index: 10;
 }
 
 /* =========================
    SIDEBAR / LINK LIST
-   ========================= */
-
+========================= */
 #linkList {
-	background: url(/web/20110716155257im_/http://stuartgeiger.com/blueprints/right-link-background.png) repeat-y right top;
-
-	position: relative;
-	margin-top: 20px;
-	padding-left: 35px;
-
-	max-width: 500px;
-	min-height: 40em;
-	z-index: 1;
+    background: url(/web/20110716155257im_/http://stuartgeiger.com/blueprints/right-link-background.png) repeat-y right top;
+    position: relative;
+    margin-top: 20px;
+    padding-left: 35px;
+    max-width: 500px;
+    min-height: 40em;
+    z-index: 1;
 }
 
 #linkList2 {
-	background: url(/web/20110716155257im_/http://stuartgeiger.com/blueprints/linkbar-bottom.png) no-repeat bottom right;
-
-	position: relative;
-	margin-left: -50px;
-	width: 351px;
-	min-height: 60em;
-	z-index: 2;
+    background: url(/web/20110716155257im_/http://stuartgeiger.com/blueprints/linkbar-bottom.png) no-repeat bottom right;
+    position: relative;
+    margin-left: -50px;
+    width: 351px;
+    min-height: 60em;
+    z-index: 2;
 }
-
-/* =========================
-   LINK SECTIONS
-   ========================= */
 
 #lselect,
 #larchives,
 #lresources {
-	padding-left: 50px;
-	width: 165px;
+    padding-left: 50px;
+    width: 165px;
 }
 
 /* =========================
    PAGE HEADER CLEANUP
-   ========================= */
-
+========================= */
 #pageHeader span {
-	display: none;
+    display: none;
 }
 
 /* =========================
    FOOTER
-   ========================= */
-
+========================= */
 #footer {
-	background: url(/web/20110716155257im_/http://stuartgeiger.com/blueprints/footer.png) no-repeat center top;
-
-	margin: 40px auto 0;
-	padding-top: 170px;
-	padding-left: 300px;
-
-	width: 100%;
-	max-width: 572px;
-	height: 344px;
-
-	box-sizing: border-box;
+    background: url(/web/20110716155257im_/http://stuartgeiger.com/blueprints/footer.png) no-repeat center top;
+    margin: 40px auto 0;
+    padding-top: 170px;
+    padding-left: 300px;
+    width: 100%;
+    max-width: 572px;
+    height: 344px;
+    box-sizing: border-box;
 }
 
 /* =========================
-   LARGE SCREEN SAFETY
-   ========================= */
-
-#extraDiv1 {
-	position: relative;
-	width: 100%;
-	height: 180px;
-
-	background-image: url(/web/20110716155257im_/http://stuartgeiger.com/blueprints/header.png);
-	background-repeat: no-repeat;
-	background-position: center top;
-	background-size: contain;
+   MEDIA QUERIES FOR RESPONSIVENESS
+========================= */
+@media (max-width: 1400px) {
+    #container {
+        margin: 20px auto;
+        padding-left: 20px;
+    }
+    #footer {
+        padding-left: 50px;
+    }
 }
 
-#container {
-	margin-top: 30px;
+@media (max-width: 900px) {
+    #container {
+        padding-left: 15px;
+    }
+    #footer {
+        padding-left: 20px;
+    }
+}
+
+@media (max-width: 600px) {
+    #container {
+        padding-left: 10px;
+    }
+    #footer {
+        padding-left: 10px;
+        height: auto;
+        padding-top: 100px;
+    }
+}
+
+/* =========================
+   OPTIONAL LIST STYLING
+========================= */
+ul {
+    margin-left: 20px;
+}
+
+p.tab {
+    margin-left: 20px;
 }
