@@ -66,6 +66,6 @@ author_profile: true
 - Presented a talk on the use of surface topology maps to enhance the accuracy and efficiency of catalysis simulations, focusing on the application of these maps in computational materials science.
 - Discussed the integration of surface topology maps with machine learning techniques to improve the predictive capabilities of catalysis simulations.
 - Explored the potential of surface topology maps in identifying key catalytic sites and optimizing reaction pathways in complex materials systems.
----
+
 
 
